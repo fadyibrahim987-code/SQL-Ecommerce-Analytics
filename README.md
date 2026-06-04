@@ -78,4 +78,4 @@ Customer segmentation using:
 
 ## Database Diagram
 
-![Schema](schema_diagram.png)
+![Schema](screenshots/schema_diagram.png)
