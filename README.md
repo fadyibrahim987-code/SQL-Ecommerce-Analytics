@@ -23,12 +23,6 @@ Tables:
 - orders
 - order_details
 
-## Screenshots
-
-## Database Diagram
-
-![Schema](schema_diagram.png)
-
 ---
 
 ## Skills Demonstrated
@@ -81,3 +75,7 @@ Customer segmentation using:
 ### RFM Analysis
 
 ![RFM Analysis](screenshots/RFM_ANALYSIS.png)
+
+## Database Diagram
+
+![Schema](schema_diagram.png)
