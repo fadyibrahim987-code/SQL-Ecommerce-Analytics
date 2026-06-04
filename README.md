@@ -71,3 +71,7 @@ Customer segmentation using:
 ### Monthly Revenue
 
 ![Monthly Revenue](screenshots/monthly_revenue.png)
+
+### RFM Analysis
+
+![RFM Analysis](screenshots/RFM_ANALYSIS.png)
