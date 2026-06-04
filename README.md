@@ -23,10 +23,6 @@ Tables:
 - orders
 - order_details
 
-## Database Diagram
-
-![Schema](schema_diagram.png)
-
 ---
 
 ## Skills Demonstrated
