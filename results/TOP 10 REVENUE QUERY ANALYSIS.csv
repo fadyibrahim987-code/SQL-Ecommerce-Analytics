@@ -1,0 +1,11 @@
+row_num,customer_id,customer_name,revenue
+1,25,"Customer25 User25",812600.00
+2,11,"Customer11 User11",802305.00
+3,9,"Customer9 User9",644140.00
+4,2,"Customer2 User2",606670.00
+5,1,"Customer1 User1",606550.00
+6,95,"Customer95 User95",572195.00
+7,49,"Customer49 User49",540150.00
+8,34,"Customer34 User34",531715.00
+9,59,"Customer59 User59",530630.00
+10,79,"Customer79 User79",528695.00
