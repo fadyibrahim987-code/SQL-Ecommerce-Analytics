@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,25000.00
+2,Mouse,Electronics,350.00
+3,Keyboard,Electronics,700.00
+4,Monitor,Electronics,4500.00
+5,"Desk Chair",Furniture,3200.00
+6,Desk,Furniture,5500.00
+7,Notebook,Stationery,50.00
+8,"Pen Pack",Stationery,40.00
+9,Headphones,Electronics,1200.00
+10,Webcam,Electronics,900.00
+11,"Gaming Laptop",Electronics,35000.00
+12,"Office Laptop",Electronics,18000.00
+13,"Mechanical Keyboard",Electronics,1500.00
+14,"Gaming Mouse",Electronics,900.00
+15,"USB Hub",Electronics,300.00
+16,"SSD 1TB",Electronics,4500.00
+17,"External HDD",Electronics,3200.00
+18,"Smart Watch",Electronics,5500.00
+19,"Bluetooth Speaker",Electronics,1800.00
+20,"Phone Stand",Accessories,120.00
+21,"Desk Lamp",Furniture,450.00
+22,Bookshelf,Furniture,2500.00
+23,Whiteboard,Office,850.00
+24,"Office Chair Pro",Furniture,4200.00
+25,"Monitor 24 Inch",Electronics,5200.00
+26,"Monitor 27 Inch",Electronics,7800.00
+27,"Webcam HD",Electronics,1200.00
+28,"Microphone USB",Electronics,1700.00
+29,"Graphics Tablet",Electronics,2900.00
+30,Printer,Office,3500.00
+31,"Ink Cartridge",Office,400.00
+32,"Paper Pack",Office,150.00
+33,Calculator,Office,200.00
+34,"Notebook A4",Stationery,40.00
+35,"Notebook Premium",Stationery,90.00
+36,"Pen Blue",Stationery,10.00
+37,"Pen Black",Stationery,10.00
+38,"Marker Set",Stationery,80.00
+39,Stapler,Office,75.00
+40,"Power Bank",Accessories,650.00
+41,"USB Cable",Accessories,90.00
+42,"Wireless Charger",Accessories,500.00
+43,Router,Electronics,1300.00
+44,"Ethernet Cable",Electronics,120.00
+45,"Coffee Mug",Accessories,100.00
+46,"Water Bottle",Accessories,150.00
+47,Backpack,Accessories,750.00
+48,Tablet,Electronics,9000.00
+49,Smartphone,Electronics,15000.00
+50,Projector,Electronics,12000.00
